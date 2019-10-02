@@ -1,10 +1,10 @@
 Today is a good day! The rabbit has found some carrots. 
-<<<<<<< HEAD
+
 The rabbit finished two of them and carried one with it
 
 “Hello babies. Welcome to Earth. It’s hot in the summer and cold in the winter. It’s round and wet and crowded. On the outside, babies, you’ve got a hundred years here. There’s only one rule that I know of, babies-“God damn it, you’ve got to be kind.” – Kurt Vonnegut, God Bless You, Mr. Rosewater
 --Zhihao Shu
-=======
+
 The rabbit finished two of them and carried one with it.
 He brought the last carrot to his rabbit child. Yay!!
->>>>>>> c7e51f7bff49216cc3fcc784171818b0f52b2cff
+
